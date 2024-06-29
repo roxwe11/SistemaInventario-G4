@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: detalleventa-Py
+  cloud:
+    config:
+      uri: http://localhost:8870

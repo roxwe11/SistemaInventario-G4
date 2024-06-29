@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: formapago-Py
+  cloud:
+    config:
+      uri: http://localhost:8870

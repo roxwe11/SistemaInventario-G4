@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: tipo-Py
+  cloud:
+    config:
+      uri: http://localhost:8870
